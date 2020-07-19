@@ -3,7 +3,7 @@
 A sample app to showcase classified app using flutter. 
 
 # exmaple
-![myimage-alt-tag](https://github.com/leo-hdr/Flutter-HayvestApp/blob/master/screens/screenshot1.png)
+![alt text](https://github.com/leo-hdr/Flutter-HayvestApp/blob/master/screens/screenshot1.png?raw=true)
 
 
 
