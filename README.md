@@ -4,7 +4,7 @@ A sample app to showcase classified app using flutter.
 
 # exmaple
 
-<img height="480px" src="https://github.com/leo-hdr/Flutter-HayvestApp/blob/master/screens/screenshot1.png"> 
+![Screenshot](https://github.com/flutter-devs/flutter_classified_app/blob/master/screens/android1.png)
 
 
 
