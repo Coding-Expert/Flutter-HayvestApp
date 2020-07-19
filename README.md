@@ -2,8 +2,8 @@
 
 A sample app to showcase classified app using flutter. 
 
-# Demo
-<img height="480px" width="270px" src="https://github.com/flutter-devs/flutter_classified_app/blob/master/screens/demo.gif">
+# exmaple
+![myimage-alt-tag](https://github.com/leo-hdr/Flutter-HayvestApp/blob/master/screens/screenshot1.png)
 
 
 
