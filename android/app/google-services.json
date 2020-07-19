@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754687860988",
+    "firebase_url": "https://mkulima-41bfb.firebaseio.com",
+    "project_id": "mkulima-41bfb",
+    "storage_bucket": "mkulima-41bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754687860988:android:38b64b17e4411343",
+        "android_client_info": {
+          "package_name": "com.mkulima.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754687860988-6caopk0lubc0ivea6vnq3v3fp1rataro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mkulima.app",
+            "certificate_hash": "3942127df1cb957ea51883214337e7b86b2354da"
+          }
+        },
+        {
+          "client_id": "754687860988-l089f43jppl0j78ol6flnj4dqfrmau9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJB24euQQspHWJ-mQ7OhVbvH12E5uyqP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754687860988-l089f43jppl0j78ol6flnj4dqfrmau9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754687860988-ghqkkhpqcfq2hvb4a56d3382v5qd8gg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
