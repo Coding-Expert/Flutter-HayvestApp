@@ -2,7 +2,7 @@
 
 A sample app to showcase classified app using flutter. 
 
-# exmaple
+# app screen
 
 ![stack Overflow](https://github.com/Coding-Expert/Flutter-HayvestApp/blob/master/screens/screenshot1.png)
 
