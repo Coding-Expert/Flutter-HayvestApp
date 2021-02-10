@@ -1,6 +1,6 @@
-# Flutter Classified App Demo
+# Food Delivery App
 
-A sample app to showcase classified app using flutter. 
+This project is app to send food products between seller and buyer 
 
 # app screen
 
